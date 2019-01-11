@@ -1,0 +1,59 @@
+{
+  "Stock Report": [
+    {
+      "Stock Name": "Google",
+      "Number of Share": 26,
+      "Share Price": 1500
+    },
+    {
+      "Stock Name": "Microsoft",
+      "Number of Share": 16,
+      "Share Price": 1300
+    },
+    {
+      "Stock Name": "IBM",
+      "Number of Share": 20,
+      "Share Price": 1000
+    },
+    {
+      "Stock Name": "Facebook",
+      "Number of Share": 10,
+      "Share Price": 1700
+    },
+    {
+      "Stock Name": "Oracle",
+      "Number of Share": 8,
+      "Share Price": 800
+    },
+    {
+      "Stock Name": "Apple",
+      "Number of Share": 49,
+      "Share Price": 2000
+    },
+    {
+      "Stock Name": "BridgeLabs",
+      "Number of Share": 80,
+      "Share Price": 900
+    },
+    {
+      "Stock Name": "TCS",
+      "Number of Share": 410,
+      "Share Price": 300
+    },
+    {
+      "Stock Name": "tdx",
+      "Number of Share": 5,
+      "Share Price": 5
+    },
+    {
+      "Stock Name": "Marvel",
+      "Number of Share": 30,
+      "Share Price": 250
+    },
+    {
+      "Stock Name": "sagar",
+      "Number of Share": 0,
+      "Share Price": 200
+    }
+  ]
+}
