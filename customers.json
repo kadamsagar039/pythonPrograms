@@ -1,0 +1,44 @@
+{
+  "Person": [
+    {
+      "Name": "Sagar",
+      "Email id": "sagarkadam96@gmail.com",
+      "Address": "Parel",
+      "Contact": 7896523410,
+      "Number of Share": 41,
+      "Total Balance": 5505
+    },
+    {
+      "Name": "Nikhil",
+      "Email id": "nikhillad01@gmail.com",
+      "Address": "Chembur",
+      "Contact": 987456321,
+      "Number of Share": 3,
+      "Total Balance": 46250
+    },
+    {
+      "Name": "Pushkar",
+      "Email id": "pushkarishware@gmail.com",
+      "Address": "Pen",
+      "Contact": 123654789,
+      "Number of Share": 8,
+      "Total Balance": 15000
+    },
+    {
+      "Name": "Shahzad",
+      "Email id": "sk.Shahzad@gmail.com",
+      "Address": "Nalasopara",
+      "Contact": 124597532,
+      "Number of Share": 4,
+      "Total Balance": 12000
+    },
+    {
+      "Name": "Janhvi",
+      "Email id": "janhvimhatre@gmail.com",
+      "Address": "Pen",
+      "Contact": 7896541230,
+      "Number of Share": 3,
+      "Total Balance": 60000
+    }
+  ]
+}
